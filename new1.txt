@@ -3,3 +3,4 @@ second line
 third line
 third line
 rebase line master
+after brebasing in rebase_branch this line was added
