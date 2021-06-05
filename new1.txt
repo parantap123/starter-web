@@ -2,3 +2,4 @@ first line
 second line
 third line
 third line
+rebase line master
