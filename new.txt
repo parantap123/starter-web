@@ -4,3 +4,4 @@ newline in master branch
 newline rebase line
 before branching of rebase abort
 line in the rebase_conflict branch
+line after esolving the conflict 
